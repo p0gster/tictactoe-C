@@ -1,7 +1,5 @@
-# tictactoe-C
-Implementations of tictac in C and object oriented C++.
-
-
+# tictactoe
+Implementations of tictactoe in C and object oriented C++.
 
 # Usage:
 
